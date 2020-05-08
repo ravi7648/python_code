@@ -3,7 +3,7 @@ import json
 import ssl
 import time
 
-api_key = '541afa84d57****************2'   #use your own API KEY
+api_key = '552afa04d573a1157a43cde616330b52'   #use your own API KEY
 serviceurl = 'https://api.openweathermap.org/data/2.5/weather?'
 choice = True
 
